@@ -1,0 +1,32 @@
+# Java / Maven
+target/
+*.class
+*.log
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Python (stage 2)
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Node / frontend (stage 6)
+node_modules/
+dist/
+
+# OS
+.DS_Store
+
+# Python tooling
+.pytest_cache/
+
+# Local archives
+*.zip
