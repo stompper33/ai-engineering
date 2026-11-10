@@ -141,8 +141,9 @@ Create a `.env` file in this folder (or set these as Space secrets on Hugging Fa
 | `PUSHOVER_USER` | If Pushover | – | Pushover user key |
 | `PUSHOVER_TOKEN` | If Pushover | – | Pushover app token |
 
-Note: See example file `.evn.example` for reference
 ---
+
+Note: See example file `.env.example` for reference
 
 ## Running locally
 
