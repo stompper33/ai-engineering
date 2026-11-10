@@ -141,12 +141,13 @@ Create a `.env` file in this folder (or set these as Space secrets on Hugging Fa
 | `PUSHOVER_USER` | If Pushover | – | Pushover user key |
 | `PUSHOVER_TOKEN` | If Pushover | – | Pushover app token |
 
+Note: See example file `.evn.example` for reference
 ---
 
 ## Running locally
 
 ```bash
-cd 2_openai/deep_research
+cd deep_research
 pip install -r requirements.txt     # or: uv pip install -r requirements.txt
 # create your .env file (see Configuration)
 python app.py                        # full app with clarifying questions
